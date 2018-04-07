@@ -17,5 +17,4 @@ def chessBoardCellColor(cell1, cell2):
 
 cell1 = "A1" 
 cell2 = "H3"
-print(whiteOrBlack(cell2))
 print(chessBoardCellColor(cell1, cell2))
